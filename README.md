@@ -32,19 +32,6 @@
 
 <br>
 
-## 🎯 Current Focus
-
-* AWS Solutions Architect Associate (SAA)
-* Terraform
-* Amazon ECS & Containerized Workloads
-* Infrastructure as Code (IaC)
-* CI/CD Automation
-* Linux Administration
-* Networking Fundamentals
-* Scalable Cloud Architectures
-
----
-
 ## ☁️ Cloud & DevOps
 
 <p>
