@@ -26,7 +26,7 @@
 * 🐳 Experienced with Docker, containerized applications, and deployment workflows.
 * 🏗️ Learning Infrastructure as Code using Terraform and automation practices.
 * 🔄 Interested in CI/CD pipelines, Linux systems, networking, and scalable architectures.
-* 📚 Currently preparing for AWS Certified Solutions Architect – Associate (SAA).
+* 📚 AWS Certified Solutions Architect – Associate (SAA).
 * 🤖 Background in Machine Learning through NTI training and practical experimentation.
 * 🌍 Open to collaboration on backend, cloud, and infrastructure projects.
 
